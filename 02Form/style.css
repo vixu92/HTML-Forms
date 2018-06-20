@@ -1,0 +1,23 @@
+ 
+    *{
+        box-sizing: border-box;
+    }
+    .control-group{
+        padding: 1rem;
+    }
+    input{
+        display: block;
+       padding: 0.1rem;
+    }
+    input[type="text"]{
+        margin-bottom: 1rem;
+        margin-bottom: 0.1rem;
+    }
+    .datos{
+        width: 50%;
+        float: left;
+    }
+    .login{
+        width: 49%;
+        float: left;
+    }
