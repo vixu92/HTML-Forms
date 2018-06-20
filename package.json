@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/vixu92/HTML-Forms.git"
   },
-  "author": "",
+  "author": "Javier",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vixu92/HTML-Forms/issues"
   },
-  "homepage": "https://github.com/vixu92/HTML-Forms#readme"
+  "homepage": "https://github.com/vixu92/HTML-Forms#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
 }
