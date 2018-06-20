@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vixu92/HTML-Forms#readme",
   "dependencies": {
+    "bootstrap": "^4.1.1",
     "node-modules": "^1.0.1"
   }
 }
